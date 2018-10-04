@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GIfApp</string>
+    <string name="search_gifs" translatable="false">Search GIF</string>
+    <string name="toast_save_image">Image saved to the gallery</string>
+</resources>
